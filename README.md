@@ -1,7 +1,5 @@
 # XAI applied to transformers
 
-
-## Contents
 - [Introduction](#Introduction)
 - [Papers](#papers)
 - [Repositories](#repositories)
