@@ -1,4 +1,4 @@
-# XAI applied to transformers
+# XAI for transformers
 
 - [Introduction](#Introduction)
 - [Papers](#papers)
