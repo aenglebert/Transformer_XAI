@@ -19,7 +19,7 @@ This repository aim to centralize references to ressources related to explainabi
 
 ## Repositories
 
-- [XAI for Transformers: Better Explanations through Conservative Propagation - GitHub] (https://github.com/ameenali/xai_transformers)
+- [XAI for Transformers: Better Explanations through Conservative Propagation - GitHub](https://github.com/ameenali/xai_transformers)
 
 
 ## Others
