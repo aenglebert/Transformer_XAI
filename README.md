@@ -16,11 +16,14 @@ This repository aim to centralize references to ressources related to explainabi
 - [Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/html/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.html)
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://arxiv.org/abs/2202.07304)
 - [Explainable Sentiment Analysis: A Hierarchical Transformer-Based Extractive Summarization Approach ](https://www.semanticscholar.org/paper/Explainable-Sentiment-Analysis%3A-A-Hierarchical-Bacco-Cimino/afcf2e7ab4da89ee9dc8b8cda41412865ebc1bc5)
+- [Do Vision Transformers See Like Convolutional Neural Networks?](https://arxiv.org/abs/2108.08810) even if it does not refer to XAI directly, the comparison modality between ViT and CNN can be interesting
 
 
 ## Repositories
 
 - [XAI for Transformers: Better Explanations through Conservative Propagation - GitHub](https://github.com/ameenali/xai_transformers)
+- [Explainability for Vision Transformers (in PyTorch)](https://github.com/jacobgil/vit-explain)
+- [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer): Collect some Transformer with Computer-Vision (CV) papers.
 
 
 ## Others
