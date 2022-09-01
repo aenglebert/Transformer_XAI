@@ -21,11 +21,11 @@ This repository aim to centralize references to ressources related to explainabi
 -[Attention is not an explanation](https://aclanthology.org/N19-1357.pdf)
 
 ## Tools
--[The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
--[InterpreT - GitHub](https://github.com/IntelLabs/nlp-architect/tree/master/solutions/InterpreT)
--[Transformers Interpret - GitHub](https://github.com/cdpierse/transformers-interpret) Transformers Interpret is a model explainability tool designed to work exclusively with the 🤗 transformers package.
--[Ferret - GitHub](https://github.com/g8a9/ferret)
--[T3-Vis - GitHub](https://github.com/raymondzmc/T3-Vis) T3-Vis is a visual analytic framework designed to assist in the training and fine-tuning of Transformer-based
+- [The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html)
+- [InterpreT - GitHub](https://github.com/IntelLabs/nlp-architect/tree/master/solutions/InterpreT)
+- [Transformers Interpret - GitHub](https://github.com/cdpierse/transformers-interpret) Transformers Interpret is a model explainability tool designed to work exclusively with the 🤗 transformers package.
+- [Ferret - GitHub](https://github.com/g8a9/ferret)
+- [T3-Vis - GitHub](https://github.com/raymondzmc/T3-Vis) T3-Vis is a visual analytic framework designed to assist in the training and fine-tuning of Transformer-based
 models.
 - [VL-Interpret - GitHub](https://github.com/IntelLabs/VL-InterpreT)
 
