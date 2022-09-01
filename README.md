@@ -31,7 +31,7 @@ models.
 
 
 ## Demo
--[VL-InterpreT](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) An Int
+- [VL-InterpreT](http://vlinterpret38-env-2.eba-bgxp4fxk.us-east-2.elasticbeanstalk.com/) An Int
 eractive Visualization Tool for Interpreting Vision-Language Transformers
 
 ## Repositories
